@@ -1,2 +1,2 @@
 # skills-copilot-codespaces-vscode
-My clone repository
+Learning how to use GitHub Copilot and OpenAI Codex.
